@@ -33,7 +33,7 @@
   },
 "repository": {
     "type": "git",
-    "url": "https://github.com/DUXCRY/enpiem.git"
+    "url": "https://github.com/DUXCRY/ruggsack.git"
   },
   "dependencies": {
     "minti_fulkerson": "0.1.4"
@@ -41,7 +41,7 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DUXCRY/enpiem/issues"
+    "url": "https://github.com/DUXCRY/ruggsack/issues"
   },
-  "homepage": "https://github.com/DUXCRY/enpiema#readme"
+  "homepage": "https://github.com/DUXCRY/ruggsack/readme"
 }
